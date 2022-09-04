@@ -1,0 +1,127 @@
+div.content {
+    height: 100%;
+    width: 100%;
+    padding: 32px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+div.container {
+    width: 640px;
+    height: fit-content;
+    max-width: 100%;
+    display: inline-block;
+}
+
+div.header {
+    width: 100%;
+    height: fit-content;
+}
+
+div.personal-info {
+    height: fit-content;
+    width: 100%;
+    text-align: center;
+}
+
+div.qualification-info {
+    height: fit-content;
+    white-space: nowrap;
+    width: 100%;
+    text-align: center;
+}
+
+div.qualification-info-item {
+    height: fit-content;
+    white-space: nowrap;
+    width: 100%;
+    text-align: justify;
+}
+
+p {
+    font-family: Georgia;
+    margin: 0px;
+    padding: 0px;
+}
+
+p.header-name {
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    margin: 12px;
+}
+
+p.status-info {
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+    margin: 12px;
+}
+
+p.personal-info-item {
+    width: fit-content;
+    font-size: 16px;
+    margin: 8px;
+    margin-left: 16px;
+    margin-right: 16px;
+    text-align: center;
+    display: inline-block;
+}
+
+p.qualification-info-item-name {
+    font-size: 26px;
+    text-align: left;
+    font-weight: bold;
+    margin: 12px;
+}
+
+p.personal-life {
+    font-size: 20px;
+    text-align: justify;
+    margin: 8px;
+    padding-left: 32px;
+    padding-right: 32px;
+    box-sizing: border-box;
+    white-space: normal;
+    word-wrap: break-word;
+}
+
+li.list-item {
+    font-size: 20px;
+    text-align: justify;
+    margin: 8px;
+    white-space: normal;
+    word-wrap: break-word;
+}
+
+footer.page-information {
+    width: 100%;
+    height: fit-content;
+    padding: 16px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+div.page-information-container {
+    width: 100%;
+    height: fit-content;
+}
+
+p.page-information-item {
+    width: fit-content;
+    font-size: 12px;
+    margin: 8px;
+    text-align: center;
+    display: inline-block;
+}
+
+div.creator-copyrigth {
+    width: 100%;
+    height: fit-content;
+}
+
+div.image-center {
+    width: 100%;
+    height: fit-content;
+    text-align: center;
+}
